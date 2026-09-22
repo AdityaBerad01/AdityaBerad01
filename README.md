@@ -117,19 +117,6 @@ An AI-assisted platform designed to help users evaluate local business opportuni
 
 ---
 
-### 🛡️ NetGuard-AI
-
-An AI-based network attack forecasting project designed to analyze network traffic and identify potential security risks.
-
-**Focus:**
-- 🌐 Network traffic analysis
-- 🤖 Machine Learning
-- 📈 Attack forecasting
-- ⚠️ Risk scoring
-- 🔔 Security alerts
-
----
-
 ### 🏨 WanderLust
 
 A full-stack travel and accommodation listing application.
